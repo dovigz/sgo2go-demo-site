@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="108" viewBox="0 0 420 108">
+  <g>
+    <path d="M54 12 L78 58 L64 58 L82 92 L26 92 L44 58 L30 58 Z" fill="#166534"/>
+    <path d="M54 26 L69 56 L58 56 L72 84 L36 84 L50 56 L39 56 Z" fill="#14532d"/>
+    <rect x="50" y="88" width="8" height="10" rx="1.5" fill="#7c5a2b"/>
+  </g>
+  <text x="100" y="47" font-family="Georgia, serif" font-size="30" font-weight="bold" fill="#14532d">Cedar Valley</text>
+  <text x="100" y="78" font-family="Helvetica Neue, Arial, sans-serif" font-size="19" letter-spacing="3" fill="#ca8a04">SCHOLARSHIP FUND</text>
+</svg>
